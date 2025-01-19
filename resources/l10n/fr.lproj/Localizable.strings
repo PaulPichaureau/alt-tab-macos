@@ -389,7 +389,7 @@
 "Show & Hide" = "Afficher et cacher";
 
 /* No comment provided by engineer. */
-"Show an item in the switcher for each window, or for each application. Windows will be focused, whereas applications will be activated." = "Afficher un élément dans le commutateur pour chaque fenêtre ou pour chaque application.Les fenêtres seront concentrées, tandis que les applications seront activées.";
+"Show an item in the switcher for each window, or for each application. Windows will be focused, whereas applications will be activated." = "Afficher un élément dans le switcher pour chaque fenêtre ou pour chaque application. Les fenêtres seront sélectionnées, tandis que les applications seront activées.";
 
 /* No comment provided by engineer. */
 "Show at the end" = "Mettre à la fin";
@@ -431,7 +431,7 @@
 "Small" = "Small";
 
 /* No comment provided by engineer. */
-"Some apps like Finder or Preview use standard tabs which act like independent windows. Some other apps like web browsers use custom tabs which act in unique ways and are not actual windows. AltTab can't list those separately." = "Certaines applications comme Finder ou Aperçu utilisent des onglets standard qui agissent comme des fenêtres indépendantes.Certaines autres applications comme les navigateurs Web utilisent des onglets personnalisés qui agissent de manière unique et ne sont pas des fenêtres réelles.Alttab ne peut pas les énumérer séparément.";
+"Some apps like Finder or Preview use standard tabs which act like independent windows. Some other apps like web browsers use custom tabs which act in unique ways and are not actual windows. AltTab can't list those separately." = "Certaines applications comme Finder ou Aperçu utilisent des onglets standards qui agissent comme des fenêtres indépendantes. D'autres applications comme les navigateurs Web utilisent des onglets spécifiques qui agissent de manière unique et ne sont pas des fenêtres réelles. Alttab ne peut pas les afficher séparément.";
 
 /* No comment provided by engineer. */
 "Source code repository" = "Archive du code source";
